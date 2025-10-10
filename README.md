@@ -1,49 +1,43 @@
-# Hi there 👋, I'm Andaru!
+<h2 align="left">Hi 👋! My name is Andaru Widiantoro and I'm a System Information student, from Gunadarma University</h2>
 
-🎓 I'm an Information Systems student at Gunadarma University  
-💻 I'm learning Python, Flask, and web development  
-🌱 Currently exploring backend and database systems  
-📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andaru0495&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andaru0495&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 My Skills
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** Flask, React
-- **Tools:** Git, VS Code, MongoDB
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/a8pp88.gif"  />
 
-### 📊 GitHub Stats
-![Andaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=# Hi there 👋, I'm Andaru!
+###
 
-🎓 I'm an Information Systems student at Gunadarma University  
-💻 I'm learning Python, Flask, and web development  
-🌱 Currently exploring backend and database systems  
-📫 Reach me at: [email@example.com](mailto:your_email@example.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
----
+###
 
-### 🚀 My Skills
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** Flask, React
-- **Tools:** Git, VS Code, MongoDB
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats
-![Andaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andaru0495&show_icons=true&theme=tokyonight)
+<br clear="both">
 
-### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andaru0495&layout=compact&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/Andaru0495/Andaru0495/output/snake.svg" alt="Snake animation" />
 
----
-
-✨ _“Code, learn, and share knowledge.”_
-
-### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-✨ _“Code, learn, and share knowledge.”_
+###
