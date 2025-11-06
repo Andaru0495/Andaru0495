@@ -20,9 +20,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw1QRPYJ4uN9HxVcIcBEnWPY&ust=1762486748258000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPif4PbM3JADFQAAAAAdAAAAABAE)" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
